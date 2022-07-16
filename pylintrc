@@ -74,7 +74,6 @@ disable=raw-checker-failed,
         keyword-arg-before-vararg,
         arguments-differ,
         import-error,
-        wrong-import-position
         no-member
         # invalid-name
 
